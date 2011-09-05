@@ -24,6 +24,7 @@
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="fiftyfootfoghorn" type="application/atom+xml"/>
   <!--Fonts from Google's Web font directory at http://google.com/webfonts -->
+<link href='http://fonts.googleapis.com/css?family=Geostar' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
 
@@ -112,7 +113,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://fiftyfootfoghorn.com/blog/2006/01/11/nagoya/" data-via="" data-counturl="http://fiftyfootfoghorn.com/blog/2006/01/11/nagoya/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://fiftyfootfoghorn.com/blog/2006/01/11/nagoya/" data-via="dustmason" data-counturl="http://fiftyfootfoghorn.com/blog/2006/01/11/nagoya/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -183,6 +184,22 @@
   <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("dustmason", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/dustmason" class="twitter-follow-button" data-width="208px" data-show-count="false">Follow @dustmason</a>
+  
+</section>
 
 
 

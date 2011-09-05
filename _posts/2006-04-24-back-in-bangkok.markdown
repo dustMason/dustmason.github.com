@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Back in Bangkok
+wordpress_id: 133
+wordpress_url: http://www.fiftyfootfoghorn.com/?p=133
+date: 2006-04-24 15:23:10 -04:00
+---
+I finished up my PADI certification course on Ko Tao and by that time Sarah had grown tired of exploring, so we decided to leave the island. Jeff is scheduled to arrive late tomorrow night, so we traveled by speedboat / bus up to Bangkok to be here when he gets in. To avoid facing the Th. Khao San circus once again we landed in Sukumvhit to check out the highly recommended Atlanta Hotel. The Atlanta has turned out to be one of coolest hotels I've ever seen. The rooms are nothing special and it's not the <em>best </em> deal around, but the place is an art deco time capsule.
+
+<a href="http://www.flickr.com/photos/83963013@N00/134637914"><img src="http://static.flickr.com/48/134637914_43751f2086_m.jpg" width="240" height="160" alt="_MG_8249" border="0" /></a> <a href="http://www.flickr.com/photos/83963013@N00/134637917"><img src="http://static.flickr.com/46/134637917_8657dc51de_m.jpg" width="240" height="159" alt="_MG_8283" border="0" /></a>
+
+Finding the building is not difficult although there is no visible 'Atlanta Hotel' sign anywhere - only a sign over the door which reads "This is the place you are looking for - if you know it. If you don't, you'll never find it." Walking through the front doors into the lobby is like walking onto a movie set - every last detail has been kept the same as when the hotel first opened in 1952. Everything from the switchboard behind the front desk to the tip box in the restaurant remains unchanged. The menu in the restaurant has been carefully refined over the years and features academic-style footnotes full of fascinating information prepared by Dr Max Henn himself. In the back there's even a large swimming pool (once the largest in Bangkok) and a garden, both of which look the same as they did on opening day. There is a bit of interesting history behind the place as well:
+
+<blockquote>Dr Max Henn, a chemical engineer from Berlin, founded The Atlanta Chemical Company which eventually became The Atlanta Hotel. The transition occurred when American military aerial photographers arriving in Thailand in the early to mid-1950's sought accommodation in the empty hall above the pharmaceutical laboratory. Because Thailand had never been colonised, no foreign powers had any proper maps of the country. The lack of maps during the Second World War made it difficult for the Allies to dislodge the Japanese who were belligerently occupying Thailand. This was rectified by the terms of the peace settlement, which permitted American military cartographers to come to map Thailand.
+
+Another cause of the transition from a pharmaceutical company to a hotel was the decolonisation of the Dutch East Indies, during which Dutch colonial administrators, plantation owners and managers sought accommodation in the hall above the pharmaceutical laboratory during their transit to The Netherlands. At that time, Dr Max Henn was appointed the Transit Officer by the Dutch government.</blockquote>
+
+Yesterday after speaking with the concierge at the Atlanta I visited a custom tailor shop on his recommendation (Chinese Tailors) to look into having a suit made. I ended up opting for two suits: One all-white linen suit and one all-black cashmere suit. The prices were slightly higher than some of the other tailor shops I checked out, but the quality of the material was far better and the cost is still next to nothing compared to back home. I'll have 3 fittings over the next few days and then finally send a huge package home including all the souvenirs and gifts I've been lugging around for months - but not before a photoshoot in the Atlanta.

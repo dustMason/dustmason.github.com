@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Malaria
+wordpress_id: 210
+wordpress_url: http://www.fiftyfootfoghorn.com/?p=210
+date: 2008-02-02 23:44:03 -03:00
+---
+I've been taking Mefloquine as a malaria prophylaxis for a couple of months now. Occasionally I experience wild and vivid dreams, especially on the nights that I take the pill (its taken once weekly). Not nightmares but generally intense dreams. From the wikipedia article about Mefloquine:
+
+<blockquote>
+Mefloquine may have severe and permanent adverse side-effects. It is known to cause severe depression, anxiety, paranoia, nightmares, insomnia, seizures, peripheral motor-sensory neuropathy,[2] vestibular (balance) damage and central nervous system problems. For a complete list of adverse physical and psychological effects â€” including suicidal ideation â€” see the most recent product information. Central nervous system events occur in up to 25% of people taking Lariam, such as dizziness, headache, insomnia, and vivid dreams.[citation needed] In 2002 the word "suicide" was added to the official product label, though proof of causation has not been established. Since 2003, the Food and Drug Administration (FDA) in the USA has required that patients be screened before mefloquine is prescribed. The latest Consumer Medication Guide to Lariam has more complete information.
+
+In the 1990s there were reports in the media[3] that the drug may have played a role in the Somalia Affair, which involved the torture and murder of a Somali citizen whilst in the custody of Canadian peacekeeping troops. There has been similar controversy since three murder-suicides involving Special Forces soldiers at Fort Bragg, N.C., in the summer of 2002. To date more than 19 cases of vestibular damage following the use of mefloquine have been diagnosed by military physicians. The same damage has been diagnosed among business travelers and tourists.
+</blockquote>
+
+Malaria still sounds worse than the side effects I'm experiencing, but neither option is very good. I didn't take any prophylaxis during my travels around southeast Asia where malaria is also common, but the number of travelers I've met around southern Africa who have contracted malaria during their time here has made me stick with the pills.
+
+So for now, Sunday nights = crazy dreams!

@@ -41,6 +41,26 @@ task :install, :theme do |t, args|
   mkdir_p public_dir
 end
 
+desc "Replaces [flickr]:id[/flickr] tags with Octopress {% img %} tags"
+task :replace_flickr_images do
+  require 'flickraw'
+  FlickRaw.api_key = '2f60eecaf62fd92520218749f7eb3bf8'
+  FlickRaw.shared_secret = 'd16a75b8aea8b4a2'
+  info = flickr.photos.getInfo(:photo_id => "2762612986")
+  src = FlickRaw.url(info)
+  Dir.glob("#{source_dir}/#{posts_dir}/*.*") do |file|
+    # FileUtils.mv post, stash_dir unless post.include?(args.filename)
+    # puts file
+    # text = File.read(file)
+    # puts text.size
+    # content = open(file)
+    # puts content.read
+    open(file, 'r+') do |post|
+      puts post.read
+    end
+  end
+end
+
 #######################
 # Working with Jekyll #
 #######################

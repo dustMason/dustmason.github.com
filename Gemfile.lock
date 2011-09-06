@@ -15,6 +15,8 @@ GEM
     directory_watcher (1.4.0)
     fast-stemmer (1.0.0)
     ffi (1.0.9)
+    flickraw (0.8.4)
+      json (>= 1.1.1)
     fssm (0.2.7)
     haml (3.1.2)
     jekyll (0.11.0)
@@ -24,6 +26,7 @@ GEM
       kramdown (>= 0.13.2)
       liquid (>= 1.9.0)
       maruku (>= 0.5.9)
+    json (1.5.4)
     kramdown (0.13.3)
     liquid (2.2.2)
     maruku (0.6.0)
@@ -50,6 +53,7 @@ PLATFORMS
 DEPENDENCIES
   RedCloth
   compass (>= 0.11)
+  flickraw
   haml (>= 3.1)
   jekyll
   pygments.rb

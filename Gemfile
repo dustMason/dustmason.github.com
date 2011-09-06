@@ -12,3 +12,5 @@ gem 'rubypants'
 gem 'rb-fsevent'
 gem 'stringex'
 gem 'unicode_utils'
+
+gem 'flickraw'

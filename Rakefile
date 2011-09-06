@@ -47,12 +47,12 @@ task :replace_flickr_images do
   FlickRaw.api_key = '2f60eecaf62fd92520218749f7eb3bf8'
   FlickRaw.shared_secret = 'd16a75b8aea8b4a2'
   Dir.glob("#{source_dir}/#{posts_dir}/*.*") do |file|
-    open(file, 'r') do |post|
+    open(file, 'r+') do |post|
       cleaned = post.read.gsub(/\[flickr\]photo:(\d+)\[\/flickr\]/) { |match|
         info = flickr.photos.getInfo(:photo_id => $1) # $1 is the matched photo ID
         "{% img #{FlickRaw.url(info)} %} "
       }
-      puts cleaned
+      post.puts cleaned
     end
   end
 end

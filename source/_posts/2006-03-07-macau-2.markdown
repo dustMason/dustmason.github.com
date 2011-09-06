@@ -1,8 +1,0 @@
---- 
-layout: post
-title: Macau
-wordpress_id: 232
-wordpress_url: http://www.fiftyfootfoghorn.com/?p=232
-date: 2006-03-07 23:55:13 -03:00
----
-[flickr]set:72057594076283066[/flickr]

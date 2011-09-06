@@ -1,8 +1,0 @@
---- 
-layout: post
-title: Zambia
-wordpress_id: 229
-wordpress_url: http://www.fiftyfootfoghorn.com/?p=229
-date: 2007-12-05 23:45:29 -03:00
----
-[flickr]set:72157603828993184[/flickr]

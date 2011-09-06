@@ -1,8 +1,0 @@
---- 
-layout: post
-title: Poipet
-wordpress_id: 180
-wordpress_url: http://www.fiftyfootfoghorn.com/archives/180
-date: 2006-08-18 22:21:36 -04:00
----
-<img src="http://static.flickr.com/55/143193895_9d66e36121.jpg" alt="Pickpocket" />

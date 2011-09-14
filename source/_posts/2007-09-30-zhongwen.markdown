@@ -18,3 +18,23 @@ My favorite, though, is the Chinese name for the USA, ç¾Žå›½. Pronounced 
 å¤§ = da = "big"
 
 Poetry!
+--- 
+layout: post
+title: Zhongwen
+wordpress_id: 203
+wordpress_url: http://www.fiftyfootfoghorn.com/archives/203
+date: 2007-09-30 03:42:47 -04:00
+---
+This evening I posed some questions about the Chinese language to the great Internets. The resulting avalanche of information kept me busy for hours...
+
+The most fascinating thing I learned about is the clever way in which the Chinese have translated the names of other countries. Their native pronunciation is left partially intact (although this usually means only the first syllable) while they are given a "flattering and appropriate" title. For example:
+
+England = è‹±å›½ = ying-guo = "hero country"
+Germany (Deutchland) = å¾·å›½ = de-guo = "moral country"
+
+My favorite, though, is the Chinese name for the USA, ç¾Žå›½. Pronounced mei-guo, it can be translated as "beautiful country." A flattering title indeed. Chinese, like most languages, has many words to express the concept of beauty. So why ç¾Ž? The character ç¾Ž is the combination of two characters, ç¾Š and å¤§:
+
+ç¾Š  = yang = "sheep"
+å¤§ = da = "big"
+
+Poetry!

@@ -6,3 +6,11 @@ wordpress_url: http://www.fiftyfootfoghorn.com/?p=233
 date: 2006-03-07 23:56:08 -03:00
 ---
 [flickr]set:72057594065199961[/flickr]
+--- 
+layout: post
+title: Hong Kong
+wordpress_id: 233
+wordpress_url: http://www.fiftyfootfoghorn.com/?p=233
+date: 2006-03-07 23:56:08 -03:00
+---
+[flickr]set:72057594065199961[/flickr]

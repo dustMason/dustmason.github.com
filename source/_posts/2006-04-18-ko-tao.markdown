@@ -12,3 +12,17 @@ Naturally, I signed up to get my PADI open water certification and tomorrow is m
 <a href="http://flickr.com/photos/fiftyfeet/133267842"><img src="http://static.flickr.com/53/133267842_73d8213343_m.jpg" width="240" height="160" alt="Coral Bungalows" border="0" /></a><a href="http://flickr.com/photos/fiftyfeet/133267846"><img src="http://static.flickr.com/55/133267846_ac462b9061_m.jpg" width="240" height="160" alt="Infrared Sunrise" border="0" /></a> 
 
 <s>I wish I had some photos to post - maybe soon I can put up some of Sarah's (who's been shooting enough for the both of us)</s>.  I've posted some of Sarah's photos on Flickr... After another few days on Ko Tao, we'll head north to meet Jeff.
+--- 
+layout: post
+title: Ko Tao
+wordpress_id: 132
+wordpress_url: http://www.fiftyfootfoghorn.com/archives/132
+date: 2006-04-18 23:04:03 -04:00
+---
+After a couple more days of doing nearly nothing on Ko Phangan, Sarah and I decided it was time to move over to Ko Tao. Ko Tao ("Turtle Island")  is, like many Thai islands, named after its shape. It is home to an insane number of scuba-diving clubs and schools and is world-renown as one of the top spots in the world to dive. Not only is the diving incredible, its also cheap as can be considering the courses include all the equipment and accomodation. Unless you're diving here, there's not much to do; Sarah rented a scooter ($4 / day) instead of diving and has set out to explore every last corner of the island (its tiny) before we leave.
+
+Naturally, I signed up to get my PADI open water certification and tomorrow is my first open water dive! I spent all day in the pool today covered in gear learning the basics. It's whale shark season and today there were several sightings, so with a good bit of luck I'll see one on one of my 5 dives over the next 2 days. And when I'm done diving I'll get to do some wakeboarding as our intructor is good friends with a guy who drives a ski boat on the island! I do regret not having done a PADI course before I was on Rarotonga, but I guess its all the more reason to go back soon...
+
+<a href="http://flickr.com/photos/fiftyfeet/133267842"><img src="http://static.flickr.com/53/133267842_73d8213343_m.jpg" width="240" height="160" alt="Coral Bungalows" border="0" /></a><a href="http://flickr.com/photos/fiftyfeet/133267846"><img src="http://static.flickr.com/55/133267846_ac462b9061_m.jpg" width="240" height="160" alt="Infrared Sunrise" border="0" /></a> 
+
+<s>I wish I had some photos to post - maybe soon I can put up some of Sarah's (who's been shooting enough for the both of us)</s>.  I've posted some of Sarah's photos on Flickr... After another few days on Ko Tao, we'll head north to meet Jeff.

@@ -8,3 +8,13 @@ date: 2006-03-19 17:14:35 -04:00
 Early in the morning we split a longtail ride to Phi Phi Leh with another pair of travelers. The tide was a bit lower than last time so we went around the other side of the island to see a different lagoon after stopping at Maya beach. We made it back to Phi Phi in time to catch the afternoon ferry to Ko Lanta...
 
 <a href="http://flickr.com/photos/fiftyfeet/115189065"><img src="http://static.flickr.com/51/115189065_99ebac0f6f_m.jpg" width="240" height="160" alt="Driver" border="0" /></a><a href="http://flickr.com/photos/fiftyfeet/115187966"><img src="http://static.flickr.com/46/115187966_54fad6761d_m.jpg" width="240" height="174" alt="Gigantor Spider" border="0" /></a> 
+--- 
+layout: post
+title: Ko Phi Phi
+wordpress_id: 121
+wordpress_url: http://www.fiftyfootfoghorn.com/archives/121
+date: 2006-03-19 17:14:35 -04:00
+---
+Early in the morning we split a longtail ride to Phi Phi Leh with another pair of travelers. The tide was a bit lower than last time so we went around the other side of the island to see a different lagoon after stopping at Maya beach. We made it back to Phi Phi in time to catch the afternoon ferry to Ko Lanta...
+
+<a href="http://flickr.com/photos/fiftyfeet/115189065"><img src="http://static.flickr.com/51/115189065_99ebac0f6f_m.jpg" width="240" height="160" alt="Driver" border="0" /></a><a href="http://flickr.com/photos/fiftyfeet/115187966"><img src="http://static.flickr.com/46/115187966_54fad6761d_m.jpg" width="240" height="174" alt="Gigantor Spider" border="0" /></a> 

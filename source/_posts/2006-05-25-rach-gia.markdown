@@ -6,11 +6,3 @@ wordpress_url: http://www.fiftyfootfoghorn.com/archives/153
 date: 2006-05-25 13:35:22 -04:00
 ---
 I spent the whole day sorting out what ended up being a challenging bus ride to Rach Gia. I finally made it, though, and found a good meal and crappy room for the night.
---- 
-layout: post
-title: Rach Gia
-wordpress_id: 153
-wordpress_url: http://www.fiftyfootfoghorn.com/archives/153
-date: 2006-05-25 13:35:22 -04:00
----
-I spent the whole day sorting out what ended up being a challenging bus ride to Rach Gia. I finally made it, though, and found a good meal and crappy room for the night.

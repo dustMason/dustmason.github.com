@@ -6,11 +6,3 @@ wordpress_url: http://www.fiftyfootfoghorn.com/?p=230
 date: 2007-10-05 23:50:56 -04:00
 ---
 [flickr]set:72157601871719370[/flickr]
---- 
-layout: post
-title: Laos
-wordpress_id: 230
-wordpress_url: http://www.fiftyfootfoghorn.com/?p=230
-date: 2007-10-05 23:50:56 -04:00
----
-[flickr]set:72157601871719370[/flickr]

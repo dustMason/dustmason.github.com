@@ -7,7 +7,7 @@ date: 2008-04-20 00:24:11 -04:00
 ---
 I arrived in Shihedi after a rough ride from Gonder that began at 4am. The last few days have brought the first rains of the season - normally dusty dirt roads have turned into muddy tracks. My backpack got thoroughly soaked on top of the bus thanks to a poor covering job by the <i>weyero</i>. It was slow going.
 
-[flickr]photo:2407539842[/flickr]
+{% img http://farm3.static.flickr.com/2396/2407539842_e6acaa3126.jpg %} 
 
 In just one afternoon I was able to see all that Shihedi had to offer. I passed the day chewing <em>chat</em>, drinking coffee, and chatting with locals. Most of that time was spent sitting in a dingy "chat den" conversing in broken English with a few strange characters.
 

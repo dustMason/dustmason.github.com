@@ -11,11 +11,11 @@ The pyramids are located off the road on which I had just traveled from Khartoum
 
 The bus drove off and soon I was completely alone. Not wanting to waste any time, I started walking towards the pyramids, a dozen of which were clearly visible atop a large dune about 1/2km away. For a few minutes the only thing I could hear was the sound of my footsteps. As I approached the pyramids, a young boy on a camel emerged from the shimmering horizon, riding towards me. He rode up to offer me his camel for the remaining few hundred meters - I gladly accepted, the mid-day sun was in full effect and I was already tired - and gave him 3SP. He showed me the way to the <em>khaffir</em>, who sold me an entry pass for 20SP.
 
-[flickr]photo:2424993733[/flickr][flickr]photo:2424996361[/flickr]
+{% img http://farm4.static.flickr.com/3048/2424993733_010bd11743.jpg %} {% img http://farm4.static.flickr.com/3204/2424996361_3bcb2878a5.jpg %} 
 
 I spent about 2 hours walking around amongst the 50 or so small pyramids and met not even one other tourist. Although they are miniatures compared to the sheer scale of the pyramids at Giza and Dashur in Egypt, they are just as impressive for their complete isolation. No touts, tour buses, or freelance guides, just the sun and the silence.
 
-[flickr]photo:2425001769[/flickr][flickr]photo:2425840148[/flickr]
+{% img http://farm3.static.flickr.com/2098/2425001769_224fa08fd6.jpg %} {% img http://farm4.static.flickr.com/3185/2425840148_8033748cd7.jpg %} 
 
 I took frequent breaks to rest inside the open pyramids - the only refuge from the intense heat of the direct sun. At one point, I sat down in one of the tombs to study the Egyptian-styled carvings that covered the walls and accidentally fell asleep. It was a bird, returning to its nest in the roof of the tomb, which finally woke me up an hour later. I was soaked in sweat. I had a confusing, surreal experience waking up alone in an ancient pyramid in the middle of the desert...
 

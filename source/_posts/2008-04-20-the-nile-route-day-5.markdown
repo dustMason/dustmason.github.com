@@ -17,7 +17,7 @@ We visited two places near as-Shabi but they told me that I'll have to check in 
 
 M'rees took me back to as-Shabi and after asking around at quite a few <em>lokandas</em> we managed to find one that gave me a bed for 7SD a night. It was far from luxurious - in fact one of the worst places I've ever slept - but I wanted to let M'rees go and the price was certainly right. I was given a mattress with a sheet and a pillow. "It is heat - you sleep roof, up up," the man at the desk told me. I left my bag and met a few of my roofmates.
 
-[flickr]photo:2413232320[/flickr][flickr]photo:2412409819[/flickr]
+{% img http://farm3.static.flickr.com/2198/2413232320_94fafc04ed.jpg %} {% img http://farm3.static.flickr.com/2341/2412409819_fafa1f76c4.jpg %} 
 
 I bought M'rees lunch and thanked him profusely. It was a struggle to get him to allow me to pay. Just before he said goodbye, he sneakily bought some drinks and thrust them into my arms.
 
@@ -27,7 +27,7 @@ I bought M'rees lunch and thanked him profusely. It was a struggle to get him to
 
 After a shower and a nap I was feeling much better and so decided to make an outing across the Nile bridge to Omdurman and visit the Mahdi's tomb. My Bradt guide describes a friday evening at the tomb as "one of the highlights of any visit to Sudan," but I was pretty underwhelmed by the experience. Described in the book is a lively scene of Sufi whirling dervishes who congregate each week to honor the Mahdi, but I found no dervishes and everyone I asked knew nothing about them. It was still worth a visit - the time and adjoining mosque are nice - but not too exciting.
 
-[flickr]photo:2407542362[/flickr][flickr]photo:2407541632[/flickr]
+{% img http://farm4.static.flickr.com/3031/2407542362_ec8da07819.jpg %} {% img http://farm4.static.flickr.com/3256/2407541632_c9e2691e2b.jpg %} 
 
 I sat by the road to drink some tea afterwards and met Liam, the only other <em>khawaja</em> I'd seen so far in Sudan. He has lived in Khartoum for 2 years working for an NGO called Practical Action.
 
